@@ -1,4 +1,4 @@
-var movement;
+var movement;  
 function positionMessage(){
 	if (!document.getElementById) return;
 	if (!document.getElementById('message')) return;
